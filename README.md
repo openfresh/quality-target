@@ -1,6 +1,6 @@
-# FRESH! 品質宣言
+# FRESH LIVE 品質宣言
 
-FRESH! のサービス、プロダクトにおいて目指す品質をここに宣言します。
+FRESH LIVE のサービス、プロダクトにおいて目指す品質をここに宣言します。
 
 **守りは徹底するが果敢に攻める**
 
@@ -34,7 +34,7 @@ FRESH! のサービス、プロダクトにおいて目指す品質をここに�
 - [https://broadcast.freshlive.tv](https://broadcast.freshlive.tv)
 - [Android アプリ](https://play.google.com/store/apps/details?id=jp.co.cyberagent.valencia&hl=ja)
 - [iOS アプリ](https://itunes.apple.com/jp/app/fresh/id1026540588)
-- [FRESH! Cast](https://itunes.apple.com/jp/app/fresh-cast/id1312723241)
+- [FRESH CAST](https://itunes.apple.com/jp/app/fresh-cast/id1312723241)
 
 ### SLA（Service Level Agreement）
 
@@ -77,19 +77,19 @@ FRESH! のサービス、プロダクトにおいて目指す品質をここに�
 
 ### アクセシビリティ
 
-FRESH! では誰もが生放送サービスを楽しめる、配信できることを目指し、アクセシビリティの確保と向上に取り組んでいます。
+FRESH LIVE では誰もが生放送サービスを楽しめる、配信できることを目指し、アクセシビリティの確保と向上に取り組んでいます。
 
 #### 独自ガイドラインの制定
 
-[FRESH! Accessibility Guidelines](https://openfresh.github.io/a11y-guidelines/) を制定し、アクセシビリティにおいてサービスに携わるメンバーが目指すべき品質を定義しています。
+[FRESH LIVE Accessibility Guidelines](https://openfresh.github.io/a11y-guidelines/) を制定し、アクセシビリティにおいてサービスに携わるメンバーが目指すべき品質を定義しています。
 
 #### JIS X 8341-3:2016 への対応（Web）
 
-アクセシビリティ確保・向上の一環として、FRESH! では JIS X 8341-3:2016、及び [Web Content Accessibility Guidelines2.0](https://www.w3.org/TR/WCAG20/)（[日本語](https://waic.jp/docs/WCAG20/Overview.html)） への対応に取り組んでいます。
+アクセシビリティ確保・向上の一環として、FRESH LIVE では JIS X 8341-3:2016、及び [Web Content Accessibility Guidelines2.0](https://www.w3.org/TR/WCAG20/)（[日本語](https://waic.jp/docs/WCAG20/Overview.html)） への対応に取り組んでいます。
 
 ##### 対象範囲
 
-FRESH! [https://freshlive.tv/](https://freshlive.tv/) 以下全体。
+FRESH LIVE [https://freshlive.tv/](https://freshlive.tv/) 以下全体。
 
 ※ただしユーザーから提供される放送、動画、画像、テキストなどは対象外とします。
 
@@ -100,4 +100,5 @@ FRESH! [https://freshlive.tv/](https://freshlive.tv/) 以下全体。
 本仕様書における「準拠」という対応度の表記は、[情報通信アクセス協議会ウェブアクセシビリティ基盤委員会「ウェブコンテンツのJIS X 8341-3:2016 対応度表記ガイドライン – 2016年3月版」](https://waic.jp/docs/jis2016/compliance-guidelines/201603/)で定められた表記によります。
 
 ----
-2018年2月28日制定
+1. 2018年2月28日制定
+2. 2018年7月2日改定
